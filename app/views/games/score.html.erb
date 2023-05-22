@@ -1,0 +1,11 @@
+<h1>Score</h1>
+
+<p><%= @result %></p>
+
+<% if @composition == false %>
+  <%= "Sorry but #{@word.upcase} can't be built out of #{@letters}" %>
+  <% elsif @english == false %>
+  <%= "Sorry but #{@word.upcase} does not seem to be a valid English word..."  %>
+  <% else %>
+  <%= "Congratulations !" %>
+<% end %>

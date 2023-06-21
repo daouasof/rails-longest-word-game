@@ -5,7 +5,6 @@
 }
 
 .letter {
-  /* list-style-type: none; */
   text-align: center;
   font-size: x-large;
   color: white;
@@ -26,4 +25,8 @@
 
 .button {
   margin-top: 15px;
+}
+
+label {
+  font-family: Verdana, Geneva, Tahoma, sans-serif ;
 }

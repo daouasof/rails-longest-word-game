@@ -1,0 +1,29 @@
+.letters {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.letter {
+  /* list-style-type: none; */
+  text-align: center;
+  font-size: x-large;
+  color: white;
+  padding: 5px;
+  background-color: #FF8551;
+  margin: 5px;
+  width: 20px;
+  height: 30px;
+  border-radius: 2px;
+}
+
+#word {
+  width: 100%;
+  border: 1px solid #9BCDD2;
+  border-radius: 4px;
+  margin-top: 4px;
+}
+
+.button {
+  margin-top: 15px;
+}

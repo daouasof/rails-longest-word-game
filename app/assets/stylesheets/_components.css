@@ -1,0 +1,23 @@
+.container {
+  width: 500px;
+  margin: auto;
+  background-color: #FAF0E4;
+  padding: 20px;
+}
+
+.button {
+  background-color: #9BCDD2;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+h1 {
+  margin-top: 5px;
+  text-align: center;
+}
+
+p {
+  margin: auto;
+}

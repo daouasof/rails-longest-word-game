@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Presentation
 
-Things you may want to cover:
+The goal of this game is:
+* You are given a random set of letters.
+* You have to enter the longest english word you can find using only letters in the grid.
+* After typing your answer, you get your score combined with the time you took, and eventually an error message if you failed.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Interface](/app/assets/images/LonguestWord.png?raw=true "Optional Title")
